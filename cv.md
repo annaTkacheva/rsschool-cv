@@ -6,4 +6,4 @@ HTML, CSS, JS, to be continued
 
 BSUIR(telecommunications engineer)
 
-English(A2)
+English(A2) I study English and improve my level!
