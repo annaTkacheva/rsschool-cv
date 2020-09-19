@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    font-family: helvetica;
+}
+ul {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+li {
+    list-style-type: none; /* Убираем маркеры */
+   }
+a {
+    color:#663335;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+.navigation{
+    background-color: #C5B9B0;
+    margin: 0;
+    height: 60px;
+
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.header_img{
+    padding: 100px;
+   
+}
+.myName{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-left: 60px;
+}
+section {
+    background-color: #F7F3F0;
+    margin: 200px auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
